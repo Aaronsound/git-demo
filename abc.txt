@@ -8,3 +8,4 @@ hot-fix分支上进行了修改
 master分支增加了修改1
 master分支增加了修改2
 master分支增加了修改3
+hot-fix分支修改3
